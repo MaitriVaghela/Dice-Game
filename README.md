@@ -1,5 +1,5 @@
 # Dice-Game
-Dice game is a Javascript app in which upon refreshing the page, the dices are rolled and the heading at the top of the page dsiplays which player has won the game. Also, the instruction to play the game is mentioned in the page below.
+Dice game is a Javascript app in which upon refreshing the page, the dices are rolled and the heading at the top of the page displays which player has won the game. Also, the instruction to play the game is mentioned in the page below.
 
 ## Code Editor used
 Atom
